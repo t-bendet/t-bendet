@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tal-bendet" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="www.linkedin.com/in/tal-bendet" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/tal-bendet" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="www.linkedin.com/in/tal-bendet" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
