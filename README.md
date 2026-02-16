@@ -1,20 +1,58 @@
-<h1 align="center">Hi 👋, I'm Tal</h1>
-<h3 align="center">A Fullstack Web Developer(MERN) with a thirst for knowledge</h3>
+# Hi there, I'm Tal Bendet 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tal-bendet" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="www.linkedin.com/in/tal-bendet" height="30" width="100" /></a>
-</p>
+## Full Stack Developer | React & TypeScript Specialist
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/-Express-808080?style=for-the-badge&logo=express&logoColor=white" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://reactrouter.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" width="40" height="40"/> </a>
-</p>
+I'm a Full Stack Developer who genuinely enjoys building real products with React and Node.js. With 4+ years of experience shipping production systems and contributing to platform architecture at Amdocs, I take full ownership from idea to deployment. Passionate about clean, scalable code and solving meaningful problems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-bendet&show_icons=true&locale=en&layout=compact" alt="t-bendet" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-bendet&show_icons=true&locale=en" alt="t-bendet" /></p>
+### 🚀 About Me
 
+- 🔭 Currently working as a **Full Stack Developer at Amdocs** (2021-Present)
+- 🏗️ Core UI Platform Team member building shared components and internal frameworks used across multiple products
+- 💻 Specialize in enterprise-scale React + TypeScript applications
+- 🎯 Focus on type safety, security, and performance optimization
+- 🌱 Completed intensive 720-hour Full Stack Development Bootcamp at AppleSeeds Academy
+- 🔄 Career transitioned from top-performing Real Estate Agent to Software Developer
 
+---
 
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### 🎯 Featured Project
+
+**[Audiophile E-Commerce](https://audiophile-client-i8rq.onrender.com)** – Production-ready full-stack platform with type-safe architecture, JWT auth, and optimized performance | [GitHub](https://github.com/t-bendet/audiophile-ecommerce-v5)
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tal-bendet)
+- 📧 talbendet21@gmail.com
+- 🌐 [GitHub](https://github.com/t-bendet)
+
+---
+
+### 🌍 Languages
+
+- 🇮🇱 Hebrew (Native)
+- 🇺🇸 English (Fluent)
+
+---
+
+*"I believe in writing code that's not just functional, but maintainable, scalable, and a joy to work with."*
