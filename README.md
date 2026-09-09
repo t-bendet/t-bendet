@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | React & TypeScript Specialist
 
-I'm a Full Stack Developer who genuinely enjoys building real products with React and Node.js. With 4+ years of experience shipping production systems and contributing to platform architecture at Amdocs, I take full ownership from idea to deployment. Passionate about clean, scalable code and solving meaningful problems.
+I'm a Full Stack Developer who genuinely enjoys building real products with React and Node.js. With 5+ years of experience shipping production systems and contributing to platform architecture at Amdocs, I take full ownership from idea to deployment. Passionate about clean, scalable code and solving meaningful problems.
 
 ---
 
