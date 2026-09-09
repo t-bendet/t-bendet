@@ -1,6 +1,6 @@
 # Hi, I'm Tal Bendet 👋
 
-## Full Stack Developer · React & TypeScript · Tel Aviv
+## Full Stack Developer 
 
 Five years building for the web, four of them at **Amdocs** (Aug 2021 – Sep 2025) on the Core UI
 Platform team: I built and maintained a shared React + TypeScript design system consumed by
